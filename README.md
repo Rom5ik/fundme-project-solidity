@@ -182,6 +182,7 @@ fund-me/
 - Multi-network deployment (local + testnet)
 - Understanding reentrancy risk and mitigation
 - Structuring real-world Web3 projects
+- Using Chainlink DataFeeds
 
 ## 🔐 Security Model
 
